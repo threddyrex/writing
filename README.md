@@ -1,3 +1,1 @@
-# docs
-
-Articles I've written.
+# Blog
